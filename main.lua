@@ -94,6 +94,7 @@ local WHITELIST = {
     "Fennec Fox",
     "Spinosaurus",
     "T-Rex",
+    "Blood Kiwi",
     "Wasp"
 }
 
